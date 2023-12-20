@@ -1,0 +1,142 @@
+[
+  {
+    "model": "api.User",
+    "pk": 1,
+    "fields": {
+      "phone": 9876543210,
+      "username": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "password123"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 2,
+    "fields": {
+      "phone": 1234567890,
+      "username": "Alice Johnson",
+      "email": "alice.j@example.com",
+      "password": "securepass1"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 3,
+    "fields": {
+      "phone": 5554443333,
+      "username": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "password": "userpass789"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 4,
+    "fields": {
+      "phone": 9876123456,
+      "username": "Emily Davis",
+      "email": "emily.d@example.com",
+      "password": "pass123word"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 5,
+    "fields": {
+      "phone": 7890123456,
+      "username": "Michael White",
+      "email": "michael.white@example.com",
+      "password": "securepass456"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 6,
+    "fields": {
+      "phone": 4567890123,
+      "username": "Sophia Brown",
+      "email": "sophia.b@example.com",
+      "password": "pass456word"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 7,
+    "fields": {
+      "phone": 1122334455,
+      "username": "Daniel Lee",
+      "email": "daniel.lee@example.com",
+      "password": "danielPass789"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 8,
+    "fields": {
+      "phone": 9988776655,
+      "username": "Olivia Miller",
+      "email": "olivia.m@example.com",
+      "password": "millerPass123"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 9,
+    "fields": {
+      "phone": 8765432109,
+      "username": "William Taylor",
+      "email": "william.t@example.com",
+      "password": "william123pass"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 10,
+    "fields": {
+      "phone": 3332221111,
+      "username": "Emma Wilson",
+      "email": "emma.w@example.com",
+      "password": "emmaPass456"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 11,
+    "fields": {
+      "phone": 9900112233,
+      "username": "Liam Jackson",
+      "email": "liam.j@example.com",
+      "password": "pass789word"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 12,
+    "fields": {
+      "phone": 8877665544,
+      "username": "Ava Harris",
+      "email": "ava.h@example.com",
+      "password": "pass1234word"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 13,
+    "fields": {
+      "phone": 6655443322,
+      "username": "Noah Davis",
+      "email": "noah.d@example.com",
+      "password": "noahPass567"
+    }
+  },
+  {
+    "model": "api.User",
+    "pk": 14,
+    "fields": {
+      "phone": 1122334466,
+      "username": "Isabella Anderson",
+      "email": "isabella.a@example.com",
+      "password": "isabellaPass789"
+    }
+  }
+]

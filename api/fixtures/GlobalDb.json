@@ -1,0 +1,112 @@
+[
+  {
+    "model": "api.GlobalDb",
+    "pk": 15,
+    "fields": {
+      "name": "Ravi",
+      "phone_no": "9999999999",
+      "email": "ravi.lennon@gmail.com",
+      "is_registered": "False",
+      "is_spam": "True"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 16,
+    "fields": {
+      "name": "Yuki",
+      "phone_no": "9876543210",
+      "email": "yuki.j@gmail.com",
+      "is_registered": "False",
+      "is_spam": "False"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 17,
+    "fields": {
+      "name": "Priya",
+      "phone_no": "8765432109",
+      "email": "priya.smith@gmail.com",
+      "is_registered": "False",
+      "is_spam": "True"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 18,
+    "fields": {
+      "name": "Akira",
+      "phone_no": "7654321098",
+      "email": "akira.d@gmail.com",
+      "is_registered": "False",
+      "is_spam": "False"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 19,
+    "fields": {
+      "name": "Ananya",
+      "phone_no": "6543210987",
+      "email": "ananya.white@gmail.com",
+      "is_registered": "False",
+      "is_spam": "True"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 20,
+    "fields": {
+      "name": "Takashi",
+      "phone_no": "5432109876",
+      "email": "takashi.b@gmail.com",
+      "is_registered": "False",
+      "is_spam": "False"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 21,
+    "fields": {
+      "name": "Aarav",
+      "phone_no": "4321098765",
+      "email": "aarav.lee@gmail.com",
+      "is_registered": "False",
+      "is_spam": "True"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 22,
+    "fields": {
+      "name": "Mei",
+      "phone_no": "3210987654",
+      "email": "mei.anderson@gmail.com",
+      "is_registered": "False",
+      "is_spam": "False"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 23,
+    "fields": {
+      "name": "Surya",
+      "phone_no": "2109876543",
+      "email": "surya.jackson@gmail.com",
+      "is_registered": "False",
+      "is_spam": "True"
+    }
+  },
+  {
+    "model": "api.GlobalDb",
+    "pk": 24,
+    "fields": {
+      "name": "Lin",
+      "phone_no": "1098765432",
+      "email": "lin.davis@gmail.com",
+      "is_registered": "False",
+      "is_spam": "False"
+    }
+  }
+]
